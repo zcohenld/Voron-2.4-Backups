@@ -15,6 +15,7 @@ Discord: zcohenld
 - Snap hinges for 6mm sides/top
 - Titanium backers
 - 5" KlipperScreen
+- PiCam
 - Klicky
 - Nozzle Brush and purge bucket
 - Custom case lighting using WS2812b 144/m
