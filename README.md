@@ -11,7 +11,7 @@ Discord: zcohenld
 - [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
 - [Nevermore V5 Duo](https://github.com/nevermore3d/Nevermore_Micro)
 - [GE5C bearing mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_GE5C)
-- Custom hinges for 6mm doors
+- [Slightly customized hinges for 6mm doors](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges)
 - [Snap hinges for 6mm sides/top](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020) with [1.6mm brass shafts](https://www.aliexpress.us/item/2251832721555019.html)
 - [Titanium backers](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers)
 - [5" Pi TFT50 V2.0](https://github.com/bigtreetech/BIGTREETECH-TouchScreenHardware/tree/master/BTT%20Pi%20TFT50%20V2.0%20Github)
